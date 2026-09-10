@@ -8,8 +8,8 @@ SET SERVEROUTPUT ON;
 -- Rewrite the previous program using a cursor FOR LOOP.
 -- Display book_id, title and price of every book.
 --
--- Student Name : Nirav Vala
--- Roll No      : 33
+-- Student Name : Nikhil tak
+-- Roll No      : 50
 --
 -- Key point:
 -- The cursor FOR LOOP automatically performs OPEN, FETCH,

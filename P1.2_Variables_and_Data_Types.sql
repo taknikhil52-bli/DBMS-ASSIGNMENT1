@@ -32,8 +32,8 @@ SET SERVEROUTPUT ON;
 -- 7. BOOLEAN values should be checked using IF before printing.
 --
 -- Personalised details:
--- Name    : Nirav Vala
--- Roll No : 33
+-- Name    : Nikhil tak
+-- Roll No : 50
 -- Marks   : 456
 -- ============================================================
 
@@ -41,7 +41,7 @@ DECLARE
     v_name       VARCHAR2(50) := 'Nikhil tak';
     v_marks      NUMBER(5,2) := 456;
     v_percentage NUMBER(5,2);
-    v_dob        DATE := DATE '2006-11-22';
+    v_dob        DATE := DATE '2007-10-15';
     v_passed     BOOLEAN;
 BEGIN
     -- Calculate percentage from marks out of 500

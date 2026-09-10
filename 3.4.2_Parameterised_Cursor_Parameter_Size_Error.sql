@@ -11,8 +11,8 @@ SET SERVEROUTPUT ON;
 --
 -- Identify the error and rewrite the declaration correctly.
 --
--- Student Name : Nirav Vala
--- Roll No      : 33
+-- Student Name : Nikhil tak
+-- Roll No      : 50
 --
 -- Key point:
 -- A parameter of a parameterised cursor must not specify

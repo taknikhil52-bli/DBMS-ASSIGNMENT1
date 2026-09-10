@@ -12,8 +12,8 @@ SET SERVEROUTPUT ON;
 -- Which one does NOT raise ORA-01001?
 -- What does it return instead?
 --
--- Student Name : Nirav Vala
--- Roll No      : 33
+-- Student Name : Nikhil tak
+-- Roll No      : 50
 --
 -- Key points:
 -- 1. %FOUND on an unopened explicit cursor raises

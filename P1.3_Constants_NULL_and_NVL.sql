@@ -26,8 +26,8 @@ SET SERVEROUTPUT ON;
 --       base_price = roll_no * 500 + 1000
 --
 -- Personalised details:
--- Name    : Nirav Vala
--- Roll No : 33
+-- Name    : Nikhil tak
+-- Roll No : 50
 -- Base    : 33 * 500 + 1000 = 17500
 -- ============================================================
 

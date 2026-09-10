@@ -8,8 +8,8 @@ SET SERVEROUTPUT ON;
 -- Use %ROWTYPE with the cursor to display all columns of
 -- the BOOK table for each book.
 --
--- Student Name : Nirav Vala
--- Roll No      : 33
+-- Student Name : Nikhil tak
+-- Roll No      : 50
 --
 -- Key points:
 -- 1. %ROWTYPE creates a record based on the cursor row.

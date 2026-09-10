@@ -17,8 +17,8 @@ SET SERVEROUTPUT ON;
 -- Also explain why %ROWCOUNT cannot be checked after a
 -- cursor FOR LOOP has ended.
 --
--- Student Name : Nirav Vala
--- Roll No      : 33
+-- Student Name : Nikhil tak
+-- Roll No      : 50
 --
 -- Key points:
 -- 1. The cursor accepts country as a parameter.
